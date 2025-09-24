@@ -51,6 +51,6 @@ To ensure a fast and responsive user experience, especially when dealing with im
 
 ## Deployment
 
-**Live URL:** [Placeholder - Will be updated upon deployment]
+**Live URL:** https://ezra254.github.io/plp-webtechnologies-classroom-july-2025-final-project-and-deployment-Final-Project-and-Depl-Ezra/
 
 This project is ready for deployment on platforms like GitHub Pages, Netlify, or Vercel. Once deployed, the live URL will be updated here.
